@@ -1,0 +1,7 @@
+node_modules/
+out/
+archive/
+audio/vo_clean/
+__pycache__/
+.env
+.DS_Store
