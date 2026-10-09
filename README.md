@@ -1,5 +1,9 @@
 # Aljam3 MCP — launch film
 
+> **Moved:** This film is now maintained in
+> [ieasybooks/launches → aljam3-mcp](https://github.com/ieasybooks/launches/tree/main/aljam3-mcp).
+> This repository is retained as an archive of the original project and its published releases.
+
 The Arabic launch film for the [Aljam3 public MCP server](https://aljam3.com/mcp), which lets AI assistants
 (ChatGPT, Claude and any other MCP client) search Aljam3's books, read pages in context and cite their sources.
 It is built with [Remotion](https://www.remotion.dev), runs about one minute, and renders in 16:9 and 9:16 from one
